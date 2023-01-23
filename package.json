@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/MCRcodes/weather-api#readme",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^1.2.3",
     "cors": "^2.8.4",
     "dotenv": "^5.0.1",
     "express": "^4.16.3",
@@ -29,9 +29,9 @@
     "ramda": "^0.25.0"
   },
   "devDependencies": {
-    "nodemon": "^1.17.4"
+    "nodemon": "^2.0.20"
   },
   "engines": {
-    "node": "12.x"
+    "node": "18.x"
   }
 }

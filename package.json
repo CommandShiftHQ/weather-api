@@ -1,6 +1,6 @@
 {
   "name": "weather-api",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Open Weather Map Proxy API",
   "main": "index.js",
   "scripts": {
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MCRcodes/weather-api.git"
+    "url": "git+https://github.com/CommandShiftHQ/weather-api.git"
   },
-  "author": "Manchester Codes",
+  "author": "Command Shift",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MCRcodes/weather-api/issues"
+    "url": "https://github.com/CommandShiftHQ/weather-api/issues"
   },
-  "homepage": "https://github.com/MCRcodes/weather-api#readme",
+  "homepage": "https://github.com/CommandShiftHQ/weather-api#readme",
   "dependencies": {
     "axios": "^1.2.3",
     "cors": "^2.8.4",
